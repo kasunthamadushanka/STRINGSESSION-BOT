@@ -19,7 +19,7 @@ API_TEXT = """Hi, {}.
 Send me /help for more info
 
 ⚠️ Disclaimer - This bot is 100% safe. But please make sure that you properly know what a string session is & how it performs, brfore using me.😍
-Bot Updates @dihanofficial
+Bot Updates @SDBOTs_inifinity
 
 Now send your `API_ID` same as `APP_ID` to Start Generating Session.
 """
@@ -132,11 +132,11 @@ async def genStr(_, msg: Message):
         return
     try:
         session_string = await client.export_session_string()
-        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@String_Session_Gen_Bot](tg://openmessage?user_id=1816235885) \nA Bot By @DihanOfficial")
+        await client.send_message("me", f"#PYROGRAM #STRING_SESSION\n\n```{session_string}``` \n\nBy [@SDStringSessonGenbot](tg://openmessage?user_id=1816235885) \nA Bot By @SDBOTs_inifinity")
         await client.disconnect()
         text = "✅ Congratulations! A pyrogram string session for your Telegram account was successfully created.  You can find the string session in the saved messages section in your telegram account. Thank you for using me! 🤖."
         reply_markup = InlineKeyboardMarkup(
-            [[InlineKeyboardButton(text="🔥 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🔥", url=f"https://t.me/dihanofficial")]]
+            [[InlineKeyboardButton(text="🔥 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🔥", url=f"https://t.me/SDBOTs_inifinity")]]
         )
         await bot.send_message(chat.id, text, reply_markup=reply_markup)
     except Exception as e:
@@ -164,11 +164,11 @@ Must Join Channel for Bot Updates !!
     reply_markup = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('𝘽𝙤𝙩𝙨 𝙎𝙪𝙥𝙥𝙤𝙧𝙩', url='https://t.me/dihan_official'),
-                InlineKeyboardButton('𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧', url='https://t.me/dihanrandila')
+                InlineKeyboardButton('𝘽𝙤𝙩𝙨 𝙎𝙪𝙥𝙥𝙤𝙧𝙩', url='https://t.me/SDBOTz'),
+                InlineKeyboardButton('𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧', url='https://t.me/Darkridersslk')
             ],
             [
-                InlineKeyboardButton('🔥 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🔥 ', url='https://t.me/dihanofficial'),
+                InlineKeyboardButton('🔥 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 🔥 ', url='https://t.me/SDBOTs_inifinity'),
             ]
         ]
     )
