@@ -1,8 +1,8 @@
 {
-    "name": "Dihan-Official-String-Session",
+    "name": "String-Session-Bot",
     "description": "A bot for Generating String Session of Telegram Account mostly for Userbots.",
     "repository": "https://github.com/dihanrandila1/String-Session-Bot",
-    "logo": "https://telegra.ph/file/9d25c6bc85a8bfcca98df.jpg",
+    "logo": "https://telegra.ph/file/5c4427a0d0483e22f8b8a.jpg",
     "keywords": [
         "python",
         "telegram"
