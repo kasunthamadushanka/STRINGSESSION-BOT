@@ -13,15 +13,16 @@ from pyrogram.errors import (
 )
 
 
-API_TEXT = """Hey, {}. I'm sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.
+API_TEXT = """Hey, {}. <b>I'm sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ</b>.
  👋 I can generate pyrogram strings session for your Telegram accounts.
 
 Send me /help for more info
 
-<b>⚠️ Disclaimer - This bot is 100% safe. But please make sure that you properly know what a string session is & how it performs, brfore using me.😍 </b>
-Join for Bot Updates:- 🔰@epusthakalaya_bots™🔰
+<b>⚠️ Disclaimer - This bot is 100% safe. But please make sure that you properly know what a string session is & how it performs, brfore using me.</b>
 
 Now send your `API_ID` same as `APP_ID` to Start Generating Session.
+
+Join for Bot Updates:- @epusthakalaya_bots™ 
 """
 
 
