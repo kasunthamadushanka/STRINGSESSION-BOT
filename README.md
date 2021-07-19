@@ -1,4 +1,4 @@
-# String-Session-Bot
+# sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ
 
 <p align="center">
   <a href="https://www.python.org">
@@ -9,7 +9,7 @@
 Generate Pyrogram String Session Using this bot.
 
 ## Demo Bot:
-<a href="https://t.me/SDStringSessonGenbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/epu_stringsessionegneratorbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
@@ -24,4 +24,7 @@ Generate Pyrogram String Session Using this bot.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadew451/String-Sesson-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kasunthamadushanka/STRINGSESSION-BOT)
+  
+## Creadits
+- [Original Repo](https://github.com/sadew451/String-Sesson-Bot)
