@@ -28,4 +28,4 @@ Generate Pyrogram String Session Using this bot.
   
 ## Creadits
 - [Original Repo](https://github.com/sadew451/String-Sesson-Bot)
-- [ᴋᴀsᴜ ʙʀᴏ 🇱🇰]https://t.me/kasu_bro) - DEV
+- [ᴋᴀsᴜ ʙʀᴏ 🇱🇰](https://t.me/kasu_bro) - DEV
